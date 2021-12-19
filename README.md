@@ -10,8 +10,8 @@
  team members include 
 1. Mayank Malhotra 
 2. Rukhsar Rahman 
-3.Swetha Sree J.A 
-4.R.Soundarya 
+3. Swetha Sree J.A 
+4. R.Soundarya 
 
 Function used:
 1. function preload()
