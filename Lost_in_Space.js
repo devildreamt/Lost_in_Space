@@ -157,7 +157,6 @@ function scrollyBackground() {
 }
 
 
-
 function mouseClicked() {
   start = 1;
 }
