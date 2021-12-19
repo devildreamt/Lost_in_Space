@@ -8,10 +8,10 @@
  Final Editing of the code was done by all the team members
 
  team members include 
- Mayank Malhotra 
- Rukhsar Rahman 
- Swetha Sree J.A 
- R.Soundarya 
+1. Mayank Malhotra 
+2. Rukhsar Rahman 
+3.Swetha Sree J.A 
+4.R.Soundarya 
 
 Function used:
 1. function preload()
