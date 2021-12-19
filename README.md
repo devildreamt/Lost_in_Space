@@ -30,3 +30,7 @@ collides or not.
 6. function Alien()
 This function responsible for the alien movements, going up and down,
 controlling gravity and upforce.
+
+
+For Demo use the link below
+https://editor.p5js.org/yomayank29/sketches/u1ePrW0nl
