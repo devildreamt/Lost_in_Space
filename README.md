@@ -1,17 +1,17 @@
 # Lost_in_Space
-# This is a game made by me and my friends as a Mini Project for my Computer Graphics Course .
-# This game is inspired by Flappy Birds and it is made using the basic JavaScript and in online compiler called as p5 editor
-# All the basic refrences was taken by the inbuilt reference library of p5 editor
+ This is a game made by me and my friends as a Mini Project for my Computer Graphics Course .
+ This game is inspired by Flappy Birds and it is made using the basic JavaScript and in online compiler called as p5 editor
+ All the basic refrences was taken by the inbuilt reference library of p5 editor
 
-# The Coding is Done by Mayank Malhotra and Rukshar Rahman 
-# All The graphics of the game was designed by Swetha Sree and R.Soundarya .
-# Final Editing of the code was done by all the team members
+ The Coding is Done by Mayank Malhotra and Rukshar Rahman 
+ All The graphics of the game was designed by Swetha Sree and R.Soundarya .
+ Final Editing of the code was done by all the team members
 
-# team members include 
-# Mayank Malhotra 
-# Rukhsar Rahman 
-# Swetha Sree J.A 
-# R.Soundarya 
+ team members include 
+ Mayank Malhotra 
+ Rukhsar Rahman 
+ Swetha Sree J.A 
+ R.Soundarya 
 
 Function used:
 1. function preload()
